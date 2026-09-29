@@ -1,5 +1,7 @@
 import { Link } from "expo-router";
-import { ScrollView, StyleSheet, Text } from "react-native";
+import { ScrollView, Text } from "react-native";
+
+import { styles } from "@/styles/index.styles";
 
 export default function Index() {
   return (
@@ -44,36 +46,3 @@ export default function Index() {
     </ScrollView>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    padding: 24,
-    gap: 4,
-  },
-  heading: {
-    fontSize: 22,
-    fontWeight: "700",
-    marginBottom: 8,
-  },
-  subheading: {
-    fontSize: 16,
-    fontWeight: "600",
-    marginTop: 16,
-    marginBottom: 4,
-  },
-  paragraph: {
-    fontSize: 15,
-    marginTop: 12,
-    lineHeight: 20,
-  },
-  listItem: {
-    fontSize: 15,
-    lineHeight: 20,
-  },
-  link: {
-    fontSize: 16,
-    fontWeight: "600",
-    color: "#1a73e8",
-    marginTop: 24,
-  },
-});
