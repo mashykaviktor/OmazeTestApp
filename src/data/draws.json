@@ -1,0 +1,58 @@
+[
+  {
+    "id": "draw_h53",
+    "title": "Cornwall VIII",
+    "type": "house",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0275/8390/5878/files/H53_Cornwall_VIII_PORTH_AVORE_DRONE_03_F5_LowRes_16x9_00bfad65-b546-483e-8408-936e8e9dfff1.jpg?v=1783696664",
+    "endsAt": "2026-09-01T23:59:59Z"
+  },
+  {
+    "id": "draw_mm_july",
+    "title": "Monthly Millionaire",
+    "type": "monthly_millionaire",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0275/8390/5878/files/Monthly_Millionaire_Concept_2025_v1_straight_2x_2c56cc5b-5708-45e4-8705-4b145d2c98a9.jpg?v=1780478992",
+    "endsAt": "2026-08-31T23:59:59Z"
+  },
+  {
+    "id": "draw_h52",
+    "title": "Bath II",
+    "type": "house",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0275/8390/5878/files/HERO_H52_Bath_II_OMAZE_SPA_EXTERIORS_01_F4_16x9_LowRes.jpg?v=1781101865",
+    "endsAt": "2026-06-30T23:59:59Z"
+  },
+  {
+    "id": "draw_eb_ferrari",
+    "title": "Ferrari Roma",
+    "type": "early_bird",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0275/8390/5878/files/H51_EB_HERO_GFX_16x9_bottom.png?v=1778757029",
+    "endsAt": "2026-05-31T23:59:59Z"
+  },
+  {
+    "id": "draw_h51",
+    "title": "Surrey III",
+    "type": "house",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0275/8390/5878/files/HERO_H51_Surrey_III_EXTERIOR_001_F3_LowRes_16x9_0148c024-b525-474f-b72c-fd1cb969fd90.jpg?v=1778758130",
+    "endsAt": "2026-05-15T23:59:59Z"
+  },
+  {
+    "id": "draw_h50",
+    "title": "Cornwall VII",
+    "type": "house",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0275/8390/5878/files/HERO_H50_Cornwall_VII_CHICKEN_SHED_DRONE_02_01_F8_16x9_LowRes.jpg?v=1775818856",
+    "endsAt": "2026-04-30T23:59:59Z"
+  },
+  {
+    "id": "draw_h49",
+    "title": "Lake District V",
+    "type": "house",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0275/8390/5878/files/H49_Lake_District_V_CLAIFE_HOLME_DRONE_02_F5_LowRes_16x9_54f23893-ed82-46fa-b318-5bead9f2a832.jpg?v=1773673666",
+    "endsAt": "2026-03-31T23:59:59Z"
+  },
+  {
+    "id": "draw_eb_vw",
+    "title": "Volkswagen California Ocean",
+    "type": "early_bird",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0275/8390/5878/files/HERO_H52_Bath_II_OMAZE_SPA_EXTERIORS_01_F4_16x9_LowRes.jpg?v=1781101865",
+    "endsAt": "2026-04-15T23:59:59Z"
+  }
+]
