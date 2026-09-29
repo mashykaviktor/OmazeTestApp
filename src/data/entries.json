@@ -1,0 +1,18 @@
+[
+  { "id": "entry_001", "drawId": "draw_h53", "userId": "user_123", "codes": ["CW8-A1B2C3", "CW8-D4E5F6"], "enteredAt": "2026-07-10T10:00:00Z" },
+  { "id": "entry_002", "drawId": "draw_h53", "userId": "user_123", "codes": ["CW8-G7H8I9"], "enteredAt": "2026-07-15T14:30:00Z" },
+  { "id": "entry_003", "drawId": "draw_mm_july", "userId": "user_123", "codes": ["MM-X1Y2Z3", "MM-P4Q5R6", "MM-S7T8U9"], "enteredAt": "2026-07-01T09:00:00Z" },
+  { "id": "entry_004", "drawId": "draw_h52", "userId": "user_123", "codes": ["BA2-AA1BB2", "BA2-CC3DD4"], "enteredAt": "2026-06-05T11:00:00Z" },
+  { "id": "entry_005", "drawId": "draw_h52", "userId": "user_123", "codes": ["BA2-EE5FF6"], "enteredAt": "2026-06-12T16:00:00Z" },
+  { "id": "entry_006", "drawId": "draw_h52", "userId": "user_123", "codes": ["BA2-GG7HH8", "BA2-II9JJ0"], "enteredAt": "2026-06-20T08:00:00Z" },
+  { "id": "entry_007", "drawId": "draw_eb_ferrari", "userId": "user_123", "codes": ["FR-ZZ1YY2"], "enteredAt": "2026-05-10T13:00:00Z" },
+  { "id": "entry_008", "drawId": "draw_h51", "userId": "user_123", "codes": ["SY3-MN1OP2", "SY3-QR3ST4"], "enteredAt": "2026-04-20T10:00:00Z" },
+  { "id": "entry_009", "drawId": "draw_h51", "userId": "user_123", "codes": ["SY3-UV5WX6"], "enteredAt": "2026-05-01T12:00:00Z" },
+  { "id": "entry_010", "drawId": "draw_h49", "userId": "user_123", "codes": ["LD5-AB1CD2", "LD5-EF3GH4", "LD5-IJ5KL6"], "enteredAt": "2026-03-15T09:00:00Z" },
+  { "id": "entry_011", "drawId": "draw_h53", "userId": "user_456", "codes": ["CW8-N1O2P3"], "enteredAt": "2026-07-11T10:00:00Z" },
+  { "id": "entry_012", "drawId": "draw_mm_july", "userId": "user_789", "codes": ["MM-A1B2C3"], "enteredAt": "2026-07-02T09:00:00Z" },
+  { "id": "entry_013", "drawId": "draw_h52", "userId": "user_456", "codes": ["BA2-VV1WW2", "BA2-XX3YY4"], "enteredAt": "2026-06-06T11:00:00Z" },
+  { "id": "entry_014", "drawId": "draw_eb_ferrari", "userId": "user_789", "codes": ["FR-QQ1RR2"], "enteredAt": "2026-05-11T13:00:00Z" },
+  { "id": "entry_015", "drawId": "draw_h51", "userId": "user_456", "codes": ["SY3-JJ1KK2"], "enteredAt": "2026-04-21T10:00:00Z" },
+  { "id": "entry_016", "drawId": "draw_h49", "userId": "user_789", "codes": ["LD5-LL1MM2", "LD5-NN3OO4"], "enteredAt": "2026-03-16T09:00:00Z" }
+]
